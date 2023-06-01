@@ -18,7 +18,8 @@ than that of the data-centralized model for all four strategies. This disparity 
 suggests that the challenges associated with decentralized learning in SHS settings, such as
 data heterogeneity, communication limitations, and variability in local datasets, may hinder
 the performance of FL models.
-Keywords Machine Learning (ML), Federated Learning (FL), Smart Healthcare Systems
+#### Keywords:
+Machine Learning (ML), Federated Learning (FL), Smart Healthcare Systems
 (SHSs), Data Privacy, Decentralized Learning, Models Aggregation Methods
 ###  Flower Framework
 
