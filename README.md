@@ -20,12 +20,21 @@ data heterogeneity, communication limitations, and variability in local datasets
 the performance of FL models.
 Keywords Machine Learning (ML), Federated Learning (FL), Smart Healthcare Systems
 (SHSs), Data Privacy, Decentralized Learning, Models Aggregation Methods
-### Flower framework
-Flower is a user-friendly framework designed for implementing the Federated Learning approach.
+###  Flower Framework
 
-Installing the Flower framework requires Python 3.6 or higher version.
-To install its stable version found on PyPI:
-! pip install flwr 
+The Flower framework is a distributed machine learning framework that enables the training of machine learning models on a decentralized network of devices. This repository provides instructions on how to install and use the Flower framework.
+
+#### Requirements
+
+- Python 3.6 or higher version
+
+#### Installation
+
+To install the stable version of Flower, you can use the Python package manager `pip`. Open your terminal or command prompt and run the following command:
+
+```shell
+pip install flwr
+```shell
 ### Strategies that we used
 
 1. The FedAdam Strategy
