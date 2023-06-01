@@ -20,11 +20,16 @@ data heterogeneity, communication limitations, and variability in local datasets
 the performance of FL models.
 Keywords Machine Learning (ML), Federated Learning (FL), Smart Healthcare Systems
 (SHSs), Data Privacy, Decentralized Learning, Models Aggregation Methods
-## The interface of Federated Learning for Smart Healthcare
-![Alt Text](FLH.png)
+### the strategy that we used
+-The FedAvg Strategy
+-The FedProx Strategy
+-TheFedAdagrad Strategy
+-TheFedAdam Strategy
 ### Dataset Links
 
 - [Augmented Alzheimer MRI Dataset v2](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
 - [Chest X-Ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
 - [Brain Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset)
+### The interface of Federated Learning for Smart Healthcare
+![Alt Text](FLH.png)
