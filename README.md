@@ -27,10 +27,10 @@ Installing the Flower framework requires Python 3.6 or higher version.
 To install its stable version found on PyPI:
 ! pip install flwr 
 ### the strategy that we used
--The FedAvg Strategy
--The FedProx Strategy
--TheFedAdagrad Strategy
--TheFedAdam Strategy
+-[The FedAvg Strategy]
+-[The FedProx Strategy]
+-[TheFedAdagrad Strategy]
+-[TheFedAdam Strategy]
 ### Dataset Links
 
 - [Augmented Alzheimer MRI Dataset v2](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
