@@ -31,10 +31,8 @@ The Flower framework is a distributed machine learning framework that enables th
 #### Installation
 
 To install the stable version of Flower, you can use the Python package manager `pip`. Open your terminal or command prompt and run the following command:
+`!pip install flwr `
 
-```shell
-pip install flwr
-```shell
 ### Strategies that we used
 
 1. The FedAdam Strategy
