@@ -41,6 +41,12 @@ To install the stable version of Flower, you can use the Python package manager 
 3. The FedProx Strategy
 4. The FedAvg Strategy
 
+### The number of client  that we used
+
+1. N_client=5
+2. N_client=10
+3. N_client=15
+4. N_client=20
 ### Dataset Links
 
 - [Augmented Alzheimer MRI Dataset v2](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
