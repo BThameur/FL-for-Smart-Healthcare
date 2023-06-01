@@ -1,6 +1,7 @@
-# FL-SHt
-Federated Learning for Smart Healthcare
+# Federated Learning for Smart Healthcare
 ## Authors
+- [Thameur Bouberra](https://www.linkedin.com/in/thameur-bouberra-b022b1152/)
+
 
 ## Abstract
 Federated Learning (FL) has emerged as a promising approach for training Machine Learning
@@ -18,3 +19,9 @@ data heterogeneity, communication limitations, and variability in local datasets
 the performance of FL models.
 Keywords Machine Learning (ML), Federated Learning (FL), Smart Healthcare Systems
 (SHSs), Data Privacy, Decentralized Learning, Models Aggregation Methods
+### Dataset Links
+
+- [Augmented Alzheimer MRI Dataset v2](https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset-v2)
+- [Chest X-Ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
+- [Brain Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset)
