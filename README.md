@@ -1,5 +1,5 @@
 # Federated Learning for Smart Healthcare
-![Image description](https://example.com/path/to/image.png)
+![Image description](FL-for-Smart-Healthcare/FLH.png)
 ## Authors
 - [Thameur Bouberra](https://www.linkedin.com/in/thameur-bouberra-b022b1152/)
 
